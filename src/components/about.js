@@ -3,7 +3,7 @@ import Title from "./title";
 const about = () => {
   return (
     <section className="section" id="about">
-      <Title Title="About" subtitle="Us" />
+      <Title title="About" subtitle="Us" />
 
       <div className="section-center about-center">
         <div className="about-img">
